@@ -28,7 +28,7 @@ for(let i = 0; i<=str.length-3; i++){
     // if(x.length<3){
     //     break
     // }
-    console.log(x)
+    // console.log(x)
 
     
 }
